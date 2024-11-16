@@ -1,4 +1,4 @@
-# PredPump - Taking the fund from polymarket, 
+# PredPump - The infinite market for DEGENS
 
 ## 👀 What is PredPump?
 
