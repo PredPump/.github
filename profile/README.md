@@ -82,6 +82,6 @@ PredPump stands out by establishing a unique machanism for open participation in
 #### [CTF Factory](https://explorer-api-holesky.morphl2.io/address/0xf945eb0ff08646d8322a37e0ffffc6dc3d41cd3d)
 
 ### Chiliz 
-#### [Mock USDC](https://api.routescan.io/v2/network/testnet/evm/88882/address/0x493da5fba9eb0f8770a0762f1ed0f9ffaebe05db
+#### [Mock USDC](https://api.routescan.io/v2/network/testnet/evm/88882/address/0x493da5fba9eb0f8770a0762f1ed0f9ffaebe05db)
 #### [CTF Factory](https://api.routescan.io/v2/network/testnet/evm/88882/address/0x68057073666e9f2fb879bcfdd8971cc8dfa9a9e8)
 
