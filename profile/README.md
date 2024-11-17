@@ -53,7 +53,7 @@ At **PredPump**, we believe prediction markets should be open to everyone and ea
 
 ### Flow 
 #### [Mock USDC](https://evm-testnet.flowscan.io/address/0x695e1923c6245cb26424b12f9bfb61456fd6184e)
-#### [CTF Factory](https://evm-testnet.flowscan.io/address/0x6fbede87375028d663141259f7c83203d25f1156)
+#### [CTF Factory](https://evm-testnet.flowscan.io/address/0x466e360E2E04DD1F3c539B53e01bCB10Cb4a73AE)
 
 ### Morph
 #### [Mock USDC](https://explorer-api-holesky.morphl2.io/address/0xcbcc16386667432f6aa654723c2ebbc7fe336ead)
