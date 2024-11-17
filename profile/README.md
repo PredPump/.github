@@ -1,6 +1,7 @@
 # PredPump - The infinite market for DEGENS
 
-With **PredPump** everyone can make bets, betting for the future with no restriction.
+PredPump is an open prediction market that allows everyone to create and vote on bets, ensuring a free and decentralized prediction market.
+
 ---
 
 ## 📜 Table of Contents
