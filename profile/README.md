@@ -4,20 +4,6 @@ PredPump is an open prediction market that allows everyone to create and vote on
 
 ---
 
-## 📜 Table of Contents
-- [Introduction](#introduction)
-- [Problem Statement](#problem-statement)
-- [Vision](#vision)
-- [Unique Value Proposition](#unique-value-proposition)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Stack](#stack)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## ‼️ Problem Statement
 
 Prediction markets are powerful, but they can feel out of reach for most people. Here's why:
@@ -36,20 +22,6 @@ Prediction markets often fail to address real-world needs due to unnecessary res
 
 At **PredPump**, we believe prediction markets should be open to everyone and easy to use. Our vision is to let everyone to create markets on any topic they care about, free from restrictions and technical hurdles, no need worried about the data. We’re building a platform where users have control, and where fairness and transparency are at the core of every interaction. Our ultimate goal is to make prediction markets fun, flexible, and accessible to all.
 
----
-
-## 🚨 Unique Value Proposition
-
-PredPump stands out by establishing a unique machanism for open participation in prediciton markets with the thrill of being able to ape into a lucrative.............
-
-- **🛠️ Decentralised**: xxx.
-- **🎨 Customization**: xxx.
-- **🔒 Fun**: xxx.
-
----
-
-## ✨ Features
-- 
 ---
 
 ## The Stack
